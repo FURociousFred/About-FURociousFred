@@ -1,5 +1,7 @@
 body {
-   color: gold;
+  background-color: white;
+  color: gold;
+  font-family: Verdana;
 }
 
 #background-video {
