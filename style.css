@@ -6,7 +6,7 @@ body {
 
 #background-video {
    width: 100vw;
-   height: 500vh;
+   height: 100vh;
    object-fit: cover;
    position: fixed;
    left: 0;
